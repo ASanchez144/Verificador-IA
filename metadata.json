@@ -1,0 +1,5 @@
+{
+  "name": "Verificador de IA (AI Detective)",
+  "description": "Una herramienta avanzada para detectar contenido generado por IA en textos, imágenes y enlaces de video utilizando Gemini Pro.",
+  "requestFramePermissions": []
+}
